@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Operacion conversion celsius a fahrenheit","Convertir una temperatura de celsius a fahrenheit","SUCCESS","2022-01-03T22:41:21.1476622-05:00[America/Bogota]","0.0","3.08"
+"Operacion conversion celsius a fahrenheit","Error de conversion","SUCCESS","2022-01-03T22:41:24.2498769-05:00[America/Bogota]","0.0","0.98"

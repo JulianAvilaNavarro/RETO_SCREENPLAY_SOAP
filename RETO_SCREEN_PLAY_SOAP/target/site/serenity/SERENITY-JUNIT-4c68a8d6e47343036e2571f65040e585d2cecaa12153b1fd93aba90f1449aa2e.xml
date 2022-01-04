@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Busqueda de lenguaje por codigo ISO" skipped="0" tests="2" time="9.96" timestamp="2022-01-03 10:41:11"><testcase name="Buscar un idioma por su codigo ISO"/><testcase name="Codigo ISO incorrecto"/></testsuite>
